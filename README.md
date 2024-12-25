@@ -21,10 +21,4 @@ This project involves creating an interactive webpage where users can draw on a 
 - **DOM Manipulation**: Adding and removing elements in the DOM based on user input and interactions.
 - **User Input**: Using prompts to accept dynamic user input and adjusting the grid size based on the user's specifications.
 
-## Possible Improvements
 
-- **Enhanced User Interaction**: Implement a feature where hovering over a square gradually darkens its color with each interaction, rather than changing to a fixed color.
-- **Responsive Design**: Make the webpage responsive so it works well on different screen sizes by using media queries.
-- **Color Customization**: Allow users to select their preferred colors for the grid or implement a random color feature when hovering.
-- **Grid Size Validation**: Improve input validation for the grid size input to ensure only valid numbers within the specified range are accepted.
-- **Performance Optimization**: Add functionality to prevent excessive CPU usage when creating very large grids, ensuring the page remains responsive even with higher grid sizes.
